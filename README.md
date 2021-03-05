@@ -8,4 +8,4 @@ In order to integrate the hardwares for the system at first all of the required 
 6. Jumper Wires
 
 The circuit diagram of the system is presented as;
-![Getting Started](./block_diagram.png)
+![Getting Started](./block_diagram.PNG)
